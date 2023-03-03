@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Open the index.html through a browser. You can open the dev tools to view the console section to view the JS console.logs coming from the scripts.js file. 
+Open the index.html through a browser. You can open the dev tools to view the console section to view the JS console.logs coming from the scripts.js file.
 
 ## Credits
 
