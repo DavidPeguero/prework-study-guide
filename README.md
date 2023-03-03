@@ -4,18 +4,9 @@
 
 This project was built as a way to review what I hvae learned in the Prework Section of the UCF Bootcamp
 
-## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
-Download the repository and unzip it into a location of your choice.
+N/A
 
 ## Usage
 
@@ -23,7 +14,7 @@ Open the index.html through a browser. You can open the dev tools to view the co
 
 ## Credits
 
-UCF Bootcamp Prework get all of the credit here :) 
+N/A
 
 ## License
 
